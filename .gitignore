@@ -1,0 +1,10 @@
+
+#ignoring the following files
+*.log
+*.pyc
+__pycache__/
+.env
+
+
+#allowing everything else
+!*
